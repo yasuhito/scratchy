@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Skratch Repository]]></title>
-  <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: tear | Skratch Repository]]></title>
+  <link href="http://skratch.heroku.com/blog/categories/tear/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
   <updated>2013-11-26T11:58:59+09:00</updated>
   <id>http://skratch.heroku.com/</id>
@@ -10,6 +10,7 @@
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
@@ -19,7 +20,7 @@
     <id>http://skratch.heroku.com/blog/2013/11/26/test</id>
     <content type="html"><![CDATA[<p>Tear + 1 Click Flare TTM by KenOne.</p>
 
-<p><img class="left" src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" width="300" height="300" title="Tear + 1 Click Flare" alt="Tear + 1 Click Flare"></p>
+<p><img src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" width="300" height="300" title="&ldquo;Tear + 1 Click Flare&rdquo;" ></p>
 ]]></content>
   </entry>
   

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Test"
+title: "Tear + 1 Click Flare"
 date: 2013-11-26 11:26:20 +0900
 comments: true
-categories:
+categories: tear flare
 ---
+Tear + 1 Click Flare TTM by KenOne.
 
 {% instagram left http://instagram.com/p/hKH-vgE1IR/ 300 300 "Tear + 1 Click Flare" %}
