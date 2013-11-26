@@ -4,13 +4,23 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-26T23:23:42+09:00</updated>
+  <updated>2013-11-26T23:32:56+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DJ Kouji Skratching]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/dj-kouji-skratching/"/>
+    <updated>2013-11-26T23:31:10+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/dj-kouji-skratching</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qzoZi8ZgYzM "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Best Of Toadstyle]]></title>
