@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: drumming | Skratch Repository]]></title>
+  <title><![CDATA[Category: drumming | Skratch Repos]]></title>
   <link href="http://skratch.heroku.com/blog/categories/drumming/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-26T14:25:40+09:00</updated>
+  <updated>2013-11-26T14:28:12+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
