@@ -4,13 +4,23 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-26T23:08:12+09:00</updated>
+  <updated>2013-11-26T23:23:42+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Best Of Toadstyle]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/best-of-toadstyle/"/>
+    <updated>2013-11-26T23:21:48+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/best-of-toadstyle</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/WEteqhXo4qA "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Qbert, D-Styles, Shortkut (ISP): How To Practice Turntablism]]></title>

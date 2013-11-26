@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: toadstyle | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/blog/categories/toadstyle/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-11-26T23:23:42+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Best Of Toadstyle]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/best-of-toadstyle/"/>
+    <updated>2013-11-26T23:21:48+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/best-of-toadstyle</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/WEteqhXo4qA "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
