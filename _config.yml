@@ -66,10 +66,6 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 instagram_cache: false # or true
 instagram_cache_dir: '.instagram-cache'      # default '.instagram-cache'
 
-# Disqus Comments
-disqus_short_name: skratch
-disqus_show_comment_count: false
-
 # Github repositories
 github_user:
 github_repo_count: 0
@@ -98,7 +94,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: skratch
 disqus_show_comment_count: false
 
 # Google Analytics
