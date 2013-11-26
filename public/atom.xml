@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Skratch Repos]]></title>
+  <title><![CDATA[#skratchrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-26T16:48:53+09:00</updated>
+  <updated>2013-11-26T17:05:22+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Crescent flare TTM by KenOne]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/crescent-flare-ttm-by-kenone/"/>
+    <updated>2013-11-26T16:57:37+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/crescent-flare-ttm-by-kenone</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://distilleryimage9.ak.instagram.com/12f60ae453ca11e3bdfc123e64519d93_8.jpg" width="300" height="300" title="Crescent flare TTM by KenOne" alt="Crescent flare TTM by KenOne"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Slow fade-out drumming by KenOne]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/slow-fade-out-drumming-by-kenone/"/>
+    <updated>2013-11-26T16:50:39+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/slow-fade-out-drumming-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper10-6.ak.instagram.com/aa23317c53d811e3836112a0e83f4a0b_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Snare-Snare-Kick Drumming by KenOne]]></title>

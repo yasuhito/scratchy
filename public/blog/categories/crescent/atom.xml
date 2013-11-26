@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: flare | #skratchrepos]]></title>
-  <link href="http://skratch.heroku.com/blog/categories/flare/atom.xml" rel="self"/>
+  <title><![CDATA[Category: crescent | #skratchrepos]]></title>
+  <link href="http://skratch.heroku.com/blog/categories/crescent/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
   <updated>2013-11-26T17:05:22+09:00</updated>
   <id>http://skratch.heroku.com/</id>
@@ -19,17 +19,6 @@
     <updated>2013-11-26T16:57:37+09:00</updated>
     <id>http://skratch.heroku.com/blog/2013/11/26/crescent-flare-ttm-by-kenone</id>
     <content type="html"><![CDATA[<p><img src="http://distilleryimage9.ak.instagram.com/12f60ae453ca11e3bdfc123e64519d93_8.jpg" width="300" height="300" title="&ldquo;Crescent flare TTM by KenOne&rdquo;" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tear + 1 Click Flare by KenOne]]></title>
-    <link href="http://skratch.heroku.com/blog/2013/11/26/tear-1click-flare/"/>
-    <updated>2013-11-26T11:26:20+09:00</updated>
-    <id>http://skratch.heroku.com/blog/2013/11/26/tear-1click-flare</id>
-    <content type="html"><![CDATA[<p><img src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" width="300" height="300" title="&ldquo;Tear + 1 Click Flare&rdquo;" ></p>
-
-<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper11-19.ak.instagram.com/c2fb40f8563111e38c0912f414058274_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
