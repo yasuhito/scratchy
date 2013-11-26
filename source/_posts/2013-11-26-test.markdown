@@ -8,3 +8,4 @@ categories: tear flare
 Tear + 1 Click Flare TTM by KenOne.
 
 {% instagram left http://instagram.com/p/hKH-vgE1IR/ 300 300 "Tear + 1 Click Flare" %}
+{% instagram left http://instagram.com/p/hKGJNUk1FP/ 300 300 "一旦スピードダウンさせてからの1click flareスクラッチ" %}
