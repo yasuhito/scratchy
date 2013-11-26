@@ -6,4 +6,12 @@ comments: false
 sharing: true
 footer: true
 ---
-準備中。
+いろいろな DJ によるスクラッチ技やフリースタイル動画の収集・分類に特化
+したサイトです。
+
+Instagram や YouTube などに新しい動画をアップロードした、またはおもしろ
+い動画を発見した人は Twitter で
+[#skratchrepos](https://twitter.com/search?q=%23skratchrepos&src=typd&f=realtime)
+ハッシュタグをつけてつぶやいてください。こちらでチェックした後、このサ
+イトに追加します。または、[@yasuhito](http://twitter.com/yasuhito) 宛に
+直接メンションしてもらっても OK です。

@@ -6,4 +6,4 @@ comments: false
 sharing: true
 footer: true
 ---
-準備中。
+Twitter: [@yasuhito](http://twitter.com/yasuhito)
