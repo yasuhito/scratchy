@@ -4,3 +4,6 @@
 [submodule "plugins/instagram"]
 	path = plugins/instagram
 	url = git://github.com/yasuhito/octopress-instagram-plugin.git
+[submodule ".themes/mnml"]
+	path = .themes/mnml
+	url = git://github.com/ioveracker/mnml.git
