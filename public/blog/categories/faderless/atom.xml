@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Skratch Repository]]></title>
-  <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: faderless | Skratch Repository]]></title>
+  <link href="http://skratch.heroku.com/blog/categories/faderless/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
   <updated>2013-11-26T14:25:40+09:00</updated>
   <id>http://skratch.heroku.com/</id>
@@ -10,6 +10,7 @@
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
@@ -18,17 +19,6 @@
     <updated>2013-11-26T14:24:25+09:00</updated>
     <id>http://skratch.heroku.com/blog/2013/11/26/faderless-drumming</id>
     <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper6-10.ak.instagram.com/44f2b65e562311e387960ee8fbc8973c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tear + 1 Click Flare by KenOne]]></title>
-    <link href="http://skratch.heroku.com/blog/2013/11/26/test/"/>
-    <updated>2013-11-26T11:26:20+09:00</updated>
-    <id>http://skratch.heroku.com/blog/2013/11/26/test</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" width="300" height="300" title="Tear + 1 Click Flare" alt="Tear + 1 Click Flare"></p>
-
-<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper11-19.ak.instagram.com/c2fb40f8563111e38c0912f414058274_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
