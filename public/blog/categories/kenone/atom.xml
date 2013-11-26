@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: flare | Skratch Repos]]></title>
-  <link href="http://skratch.heroku.com/blog/categories/flare/atom.xml" rel="self"/>
+  <title><![CDATA[Category: kenone | Skratch Repos]]></title>
+  <link href="http://skratch.heroku.com/blog/categories/kenone/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
   <updated>2013-11-26T15:53:34+09:00</updated>
   <id>http://skratch.heroku.com/</id>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Faderless Drumming by KenOne]]></title>
+    <link href="http://skratch.heroku.com/blog/2013/11/26/faderless-drumming/"/>
+    <updated>2013-11-26T14:24:25+09:00</updated>
+    <id>http://skratch.heroku.com/blog/2013/11/26/faderless-drumming</id>
+    <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper6-10.ak.instagram.com/44f2b65e562311e387960ee8fbc8973c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tear + 1 Click Flare by KenOne]]></title>
