@@ -1,3 +1,7 @@
 [submodule "plugins/instagram"]
 	path = plugins/instagram
 	url = git://github.com/longkey1/octopress-instagram-plugin.git
+
+[submodule ".themes/leanpress"]
+	path = .themes/leanpress
+	url = https://github.com/tlvince/leanpress.git
