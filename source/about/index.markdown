@@ -11,7 +11,7 @@ footer: true
 
 Instagram や YouTube などに新しい動画をアップロードした、またはおもしろ
 い動画を発見した人は Twitter で
-[#skratchrepos](https://twitter.com/search?q=%23skratchrepos&src=typd&f=realtime)
+[#sxrepos](https://twitter.com/search?q=%23sxrepos&src=typd&f=realtime)
 ハッシュタグをつけてつぶやいてください。こちらでチェックした後、このサ
 イトに追加します。または、[@yasuhito](http://twitter.com/yasuhito) 宛に
 直接メンションしてもらっても OK です。
