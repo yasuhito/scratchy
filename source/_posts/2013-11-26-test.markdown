@@ -8,4 +8,5 @@ categories: tear flare
 Tear + 1 Click Flare TTM by KenOne.
 
 {% instagram left http://instagram.com/p/hKH-vgE1IR/ 300 300 "Tear + 1 Click Flare" %}
-{% video http://distilleryvesper11-19.ak.instagram.com/c2fb40f8563111e38c0912f414058274_101.mp4 %}
+
+{% video http://distilleryvesper11-19.ak.instagram.com/c2fb40f8563111e38c0912f414058274_101.mp4 300 300 %}
