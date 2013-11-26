@@ -6,4 +6,6 @@ comments: false
 sharing: true
 footer: true
 ---
-Twitter: [@yasuhito](http://twitter.com/yasuhito)
+
+ * Twitter: [@yasuhito](http://twitter.com/yasuhito)
+ * Email: [yasuhito@gmail.com](mailto:yasuhito@gmail.com)
