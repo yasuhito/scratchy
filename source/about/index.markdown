@@ -19,9 +19,6 @@ footer: true
 
 投稿は簡単です。Twitter で
 [#sxrepos](https://twitter.com/search?q=%23sxrepos&src=typd&f=realtime)
-ハッシュタグをつけて動画の URL をつぶやいてください。または、本サイトの
-管理者である私の Twitter アカウント
-([@yasuhito](http://twitter.com/yasuhito)) 宛に直接メンションしていただ
-いても OK です。
+ハッシュタグをつけて動画の URL をつぶやいてください。
 
 動画をチェック・分類した後、こちらのサイトで紹介させていただきます。
