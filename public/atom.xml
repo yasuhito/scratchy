@@ -4,7 +4,7 @@
   <title><![CDATA[Skratch Repository]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-26T11:48:44+09:00</updated>
+  <updated>2013-11-26T11:54:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -17,7 +17,7 @@
     <link href="http://skratch.heroku.com/blog/2013/11/26/test/"/>
     <updated>2013-11-26T11:26:20+09:00</updated>
     <id>http://skratch.heroku.com/blog/2013/11/26/test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img class="left" src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" width="300" height="300" title="Tear + 1 Click Flare" alt="Tear + 1 Click Flare"></p>
 ]]></content>
   </entry>
   
