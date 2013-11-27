@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Chirps"
+date: 2013-11-27 20:54:16 +0900
+comments: true
+categories: qbert diy chirps howto
+---
+
+{% youtube tO4TBpTVCpo %}
