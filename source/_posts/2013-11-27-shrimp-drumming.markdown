@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shrimp Drumming"
+title: "Shrimp Drumming by KenOne"
 date: 2013-11-27 13:40:33 +0900
 comments: true
 categories: shrimp drumming kenone
