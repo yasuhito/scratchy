@@ -4,13 +4,30 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-27T20:58:27+09:00</updated>
+  <updated>2013-11-27T21:08:43+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[QSU - Joe Cooley Skratch Lesson]]></title>
+    <link href="http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson/"/>
+    <updated>2013-11-27T21:07:46+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nI-CnlGfsVk "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="joecooley" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chirps]]></title>

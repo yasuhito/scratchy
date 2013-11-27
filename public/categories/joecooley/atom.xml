@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: joecooley | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/joecooley/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-11-27T21:08:43+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[QSU - Joe Cooley Skratch Lesson]]></title>
+    <link href="http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson/"/>
+    <updated>2013-11-27T21:07:46+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nI-CnlGfsVk "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
