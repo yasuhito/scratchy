@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: freestyle | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-11-27T10:58:40+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DJ KEN ONE JAPAN - IDA WORLD SCRATCH BATTLE 2013]]></title>
+    <link href="http://skratch.heroku.com/2013/11/26/dj-ken-one-japan-ida-world-scratch-battle-2013/"/>
+    <updated>2013-11-26T23:39:56+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/26/dj-ken-one-japan-ida-world-scratch-battle-2013</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DNkDMlakHIw "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DJ Kouji Skratching]]></title>
+    <link href="http://skratch.heroku.com/2013/11/26/dj-kouji-skratching/"/>
+    <updated>2013-11-26T23:31:10+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/26/dj-kouji-skratching</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qzoZi8ZgYzM "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Best Of Toadstyle]]></title>
+    <link href="http://skratch.heroku.com/2013/11/26/best-of-toadstyle/"/>
+    <updated>2013-11-26T23:21:48+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/26/best-of-toadstyle</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/WEteqhXo4qA "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
