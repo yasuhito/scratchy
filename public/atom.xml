@@ -4,13 +4,36 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-27T13:50:42+09:00</updated>
+  <updated>2013-11-27T20:51:57+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2 Clickflare (Orbits)]]></title>
+    <link href="http://skratch.heroku.com/2013/11/27/2-clickflare-orbits/"/>
+    <updated>2013-11-27T20:50:06+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/27/2-clickflare-orbits</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Xo4FL31R8pM "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="diy" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="orbits" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shrimp Crab]]></title>
