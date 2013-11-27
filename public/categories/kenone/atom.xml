@@ -4,7 +4,7 @@
   <title><![CDATA[Category: kenone | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/kenone/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-27T13:12:36+09:00</updated>
+  <updated>2013-11-27T13:42:38+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shrimp Drumming]]></title>
+    <link href="http://skratch.heroku.com/2013/11/27/shrimp-drumming/"/>
+    <updated>2013-11-27T13:40:33+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/27/shrimp-drumming</id>
+    <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper5-17.ak.instagram.com/d3ce88f8516411e38e5a12aabb63d83c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DJ KEN ONE JAPAN - IDA WORLD SCRATCH BATTLE 2013]]></title>
@@ -46,15 +55,6 @@
     <updated>2013-11-26T16:34:38+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/snare-snare-kick-drumming</id>
     <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper0-8.ak.instagram.com/b91e254453db11e38cd3120e91405c8a_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Faderless Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/faderless-drumming/"/>
-    <updated>2013-11-26T14:24:25+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/faderless-drumming</id>
-    <content type="html"><![CDATA[<p><video width='300' height='300' preload='none' controls poster=''><source src='http://distilleryvesper6-10.ak.instagram.com/44f2b65e562311e387960ee8fbc8973c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
