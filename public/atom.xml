@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-28T20:07:00+09:00</updated>
+  <updated>2013-11-28T20:10:36+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Snakes - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica/"/>
+    <updated>2013-11-28T20:09:50+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/R1qzk6HFwWw "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="snake" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Knuckle Sandwich - Scratchlopedia Breaktannica]]></title>
@@ -337,24 +352,6 @@
 ]]></content>
     
     <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Faderless Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/faderless-drumming/"/>
-    <updated>2013-11-26T14:24:25+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/faderless-drumming</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper6-10.ak.instagram.com/44f2b65e562311e387960ee8fbc8973c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hJ6RZLk1EG/"><a href="http://instagram.com/p/hJ6RZLk1EG/">http://instagram.com/p/hJ6RZLk1EG/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="faderless" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
