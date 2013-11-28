@@ -4,13 +4,29 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-28T20:12:34+09:00</updated>
+  <updated>2013-11-28T21:21:52+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scratch Drumming by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone/"/>
+    <updated>2013-11-28T21:20:43+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper2-18.ak.instagram.com/8bf4bd02582311e3b0940e1d597a2c69_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/hQd7e0k1BC/"><a href="http://instagram.com/p/hQd7e0k1BC/">http://instagram.com/p/hQd7e0k1BC/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Snakes - Scratchlopedia Breaktannica]]></title>
@@ -333,22 +349,6 @@
     <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper10-6.ak.instagram.com/aa23317c53d811e3836112a0e83f4a0b_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 
 <p><a href="http://instagram.com/p/hCZuaWE1D2/"><a href="http://instagram.com/p/hCZuaWE1D2/">http://instagram.com/p/hCZuaWE1D2/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Snare-Snare-Kick Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/snare-snare-kick-drumming/"/>
-    <updated>2013-11-26T16:34:38+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/snare-snare-kick-drumming</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper0-8.ak.instagram.com/b91e254453db11e38cd3120e91405c8a_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hCcOxCk1Gs/"><a href="http://instagram.com/p/hCcOxCk1Gs/">http://instagram.com/p/hCcOxCk1Gs/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
 ]]></content>
     
     <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
