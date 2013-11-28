@@ -4,13 +4,30 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-27T23:16:40+09:00</updated>
+  <updated>2013-11-28T09:13:04+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Delayed Flares - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2013/11/28/delayed-flares-scratchlopedia-breaktannica/"/>
+    <updated>2013-11-28T09:11:23+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/28/delayed-flares-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/_5krdQgxhkU "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="delayed" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="tyra" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[QSU - Joe Cooley Skratch Lesson]]></title>
