@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-28T21:21:52+09:00</updated>
+  <updated>2013-11-29T11:30:16+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[D-styles freestyle scratch in Korea]]></title>
+    <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
+    <updated>2013-11-29T11:29:04+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/veL9R73zm60 "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scratch Drumming by KenOne]]></title>
@@ -338,22 +353,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Slow fade-out drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/slow-fade-out-drumming-by-kenone/"/>
-    <updated>2013-11-26T16:50:39+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/slow-fade-out-drumming-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper10-6.ak.instagram.com/aa23317c53d811e3836112a0e83f4a0b_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hCZuaWE1D2/"><a href="http://instagram.com/p/hCZuaWE1D2/">http://instagram.com/p/hCZuaWE1D2/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
   </entry>
   
