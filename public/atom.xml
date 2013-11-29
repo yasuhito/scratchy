@@ -4,13 +4,30 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-11-29T20:00:32+09:00</updated>
+  <updated>2013-11-29T20:06:54+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hamster / Reverse vs Regular Fader Scratch Tutorial]]></title>
+    <link href="http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial/"/>
+    <updated>2013-11-29T20:05:56+09:00</updated>
+    <id>http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/VIEF4ikISYI "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="fader" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="hamster" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="reverse" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Transformer Scratch Tutorial - How To Scratch]]></title>
@@ -325,23 +342,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="kouji" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Best Of Toadstyle]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/best-of-toadstyle/"/>
-    <updated>2013-11-26T23:21:48+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/best-of-toadstyle</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/WEteqhXo4qA "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="live" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="toadstyle" />
     
   </entry>
   
