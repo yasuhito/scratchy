@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: prizm | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/prizm/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-12-02T09:34:05+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Prizm - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica/"/>
+    <updated>2013-12-02T09:33:19+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DLDi57v2YzQ "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
