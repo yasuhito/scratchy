@@ -4,7 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T09:31:28+09:00</updated>
+  <updated>2013-12-03T14:32:42+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
+    <updated>2013-12-03T14:28:13+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
+    <content type="html"><![CDATA[<p>{% youtube FveafSVJ48Y %}</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[toadstyle and dj excess live part1]]></title>
     <link href="http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1/"/>
     <updated>2013-12-03T09:30:37+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/8udvy4h__pU "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 8udvy4h__pU %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +36,7 @@
     <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
     <updated>2013-11-29T11:29:04+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/veL9R73zm60 "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube veL9R73zm60 %}</p>
 ]]></content>
   </entry>
   
@@ -36,7 +45,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching/"/>
     <updated>2013-11-28T13:10:35+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/9oA0IZwJrtk "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 9oA0IZwJrtk %}</p>
 ]]></content>
   </entry>
   
@@ -45,16 +54,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample/"/>
     <updated>2013-11-27T11:13:17+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/jTjr8QlbLsM "></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DJ KEN ONE JAPAN - IDA WORLD SCRATCH BATTLE 2013]]></title>
-    <link href="http://skratch.heroku.com/2013/11/26/dj-ken-one-japan-ida-world-scratch-battle-2013/"/>
-    <updated>2013-11-26T23:39:56+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/26/dj-ken-one-japan-ida-world-scratch-battle-2013</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DNkDMlakHIw "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube jTjr8QlbLsM %}</p>
 ]]></content>
   </entry>
   

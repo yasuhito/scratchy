@@ -4,13 +4,32 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T09:31:28+09:00</updated>
+  <updated>2013-12-03T14:31:57+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
+    <updated>2013-12-03T14:28:13+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/FveafSVJ48Y "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="battle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="spin" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[toadstyle and dj excess live part1]]></title>
@@ -337,29 +356,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="diy" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2 Clickflare (Orbits)]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/2-clickflare-orbits/"/>
-    <updated>2013-11-27T20:50:06+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/2-clickflare-orbits</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Xo4FL31R8pM "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="diy" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="orbits" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
     

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: dstyles | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/dstyles/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T09:31:28+09:00</updated>
+  <updated>2013-12-03T14:32:42+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
+    <updated>2013-12-03T14:28:13+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
+    <content type="html"><![CDATA[<p>{% youtube FveafSVJ48Y %}</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[D-styles freestyle scratch in Korea]]></title>
     <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
     <updated>2013-11-29T11:29:04+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/veL9R73zm60 "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube veL9R73zm60 %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +36,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching/"/>
     <updated>2013-11-28T13:10:35+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/9oA0IZwJrtk "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 9oA0IZwJrtk %}</p>
 ]]></content>
   </entry>
   
@@ -36,7 +45,7 @@
     <link href="http://skratch.heroku.com/2013/11/26/qbert/"/>
     <updated>2013-11-26T22:51:13+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/qbert</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ObpPGo6OJRI "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube ObpPGo6OJRI %}</p>
 ]]></content>
   </entry>
   
