@@ -4,13 +4,49 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-02T09:34:05+09:00</updated>
+  <updated>2013-12-03T09:20:10+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Drumming (Kick-Snare-Bass) by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-bass-by-kenone/"/>
+    <updated>2013-12-03T09:18:26+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-bass-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper5-17.ak.instagram.com/08421aca5b9a11e3b69f125589bd0df1_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/hb0I2wE1Nl/"><a href="http://instagram.com/p/hb0I2wE1Nl/">http://instagram.com/p/hb0I2wE1Nl/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Drumming (Kick-Snare-Kick) by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone/"/>
+    <updated>2013-12-03T09:14:39+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper1-9.ak.instagram.com/061cd7c65ba411e3a1b20a5f90c653b9_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/hb8UtHE1LF/"><a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="crab" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Prizm - Scratchlopedia Breaktannica]]></title>
@@ -325,39 +361,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="shrimp" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Shrimp Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/shrimp-drumming/"/>
-    <updated>2013-11-27T13:40:33+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/shrimp-drumming</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper5-17.ak.instagram.com/d3ce88f8516411e38e5a12aabb63d83c_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/g6XZqMk1Ep/"><a href="http://instagram.com/p/g6XZqMk1Ep/">http://instagram.com/p/g6XZqMk1Ep/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="shrimp" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DJ 宮島塾 Sample]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample/"/>
-    <updated>2013-11-27T11:13:17+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/jTjr8QlbLsM "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="miyajima" />
     
   </entry>
   
