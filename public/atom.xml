@@ -4,13 +4,32 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T09:20:10+09:00</updated>
+  <updated>2013-12-03T09:31:28+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[toadstyle and dj excess live part1]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1/"/>
+    <updated>2013-12-03T09:30:37+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/8udvy4h__pU "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="excess" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="live" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="toadstyle" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Drumming (Kick-Snare-Bass) by KenOne]]></title>
@@ -343,24 +362,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="orbits" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Shrimp Crab by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/shrimp-crab/"/>
-    <updated>2013-11-27T13:49:43+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/shrimp-crab</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper2-10.ak.instagram.com/aca8b5584ec311e3b94612f7d16abad8_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/gxv9Dyk1Fy/"><a href="http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="crab" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="shrimp" />
     
   </entry>
   
