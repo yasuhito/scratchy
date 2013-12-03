@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: spin | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/spin/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-12-03T14:32:42+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
+    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
+    <updated>2013-12-03T14:28:13+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
+    <content type="html"><![CDATA[<p>{% youtube FveafSVJ48Y %}</p>
+]]></content>
+  </entry>
+  
+</feed>
