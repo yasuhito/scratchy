@@ -6,4 +6,4 @@ comments: true
 categories: 3click flare orbit kenone
 ---
 
-{% instagram left http://instagram.com/p/hhfCfPE1NV/ 300 300 "3Click Flare Orbit by KenOne" %}
+{% instagram http://instagram.com/p/hhfCfPE1NV/ "3Click Flare Orbit by KenOne" %}

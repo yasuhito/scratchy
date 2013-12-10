@@ -6,4 +6,4 @@ comments: true
 categories: jrocc drumming kenone
 ---
 
-{% instagram left http://instagram.com/p/hhbQNrk1Hg/ 300 300 "J ROCC Scratch Beat Drumming (Hat-Kick-Snare)" %}
+{% instagram http://instagram.com/p/hhbQNrk1Hg/ "J ROCC Scratch Beat Drumming (Hat-Kick-Snare)" %}

@@ -6,4 +6,4 @@ comments: true
 categories: drumming kenone
 ---
 
-{% instagram left http://instagram.com/p/hb0I2wE1Nl/ 300 300 "Drumming (Kick-Snare-Bass) by KenOne" %}
+{% instagram http://instagram.com/p/hb0I2wE1Nl/ "Drumming (Kick-Snare-Bass) by KenOne" %}

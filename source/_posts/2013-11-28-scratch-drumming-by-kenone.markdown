@@ -6,4 +6,4 @@ comments: true
 categories: drumming kenone
 ---
 
-{% instagram left http://instagram.com/p/hQd7e0k1BC/ 300 300 "Scratch Drumming by KenOne" %}
+{% instagram http://instagram.com/p/hQd7e0k1BC/ "Scratch Drumming by KenOne" %}

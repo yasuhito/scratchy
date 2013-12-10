@@ -6,6 +6,6 @@ comments: true
 categories: 2click flare ttm kenone
 ---
 
-{% instagram left http://instagram.com/p/hZgcMdk1B-/ 300 300 "2Click Flare 応用編 by KenOne" %}
+{% instagram http://instagram.com/p/hZgcMdk1B-/ "2Click Flare 応用編 by KenOne" %}
 
-{% instagram left http://instagram.com/p/hZhC4bE1DA/ 300 300 "2Click Flare 応用編 by KenOne" %}
+{% instagram http://instagram.com/p/hZhC4bE1DA/ "2Click Flare 応用編 by KenOne" %}

@@ -6,6 +6,6 @@ comments: true
 categories: drumming ttm kenone qbert
 ---
 
-{% instagram left http://instagram.com/p/hV3b-ZE1Ax/ 300 300 "Hyper Drumming by KenOne (originally invented by Q-bert)" %}
+{% instagram http://instagram.com/p/hV3b-ZE1Ax/ "Hyper Drumming by KenOne (originally invented by Q-bert)" %}
 
-{% instagram left http://instagram.com/p/hV4fsvE1Cb/ 300 300 "Hyper Drumming by KenOne (originally invented by Q-bert)" %}
+{% instagram http://instagram.com/p/hV4fsvE1Cb/ "Hyper Drumming by KenOne (originally invented by Q-bert)" %}
