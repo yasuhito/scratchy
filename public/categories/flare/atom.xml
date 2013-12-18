@@ -4,7 +4,7 @@
   <title><![CDATA[Category: flare | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/flare/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T14:32:42+09:00</updated>
+  <updated>2013-12-18T11:03:05+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chirps & 2 Click Flare Combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone/"/>
+    <updated>2013-12-18T10:49:47+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone</id>
+    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a> 300 300 &ldquo;Chirps &amp; 2 Click Flare Combo by KenOne&rdquo; %}</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2Click Flare 応用編 by KenOne]]></title>
@@ -48,15 +57,6 @@
     <updated>2013-11-28T09:11:23+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/delayed-flares-scratchlopedia-breaktannica</id>
     <content type="html"><![CDATA[<p>{% youtube _5krdQgxhkU %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2 Clickflare (Orbits)]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/2-clickflare-orbits/"/>
-    <updated>2013-11-27T20:50:06+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/2-clickflare-orbits</id>
-    <content type="html"><![CDATA[<p>{% youtube Xo4FL31R8pM %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: kenone | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/kenone/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T14:32:42+09:00</updated>
+  <updated>2013-12-18T11:03:05+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chirps & 2 Click Flare Combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone/"/>
+    <updated>2013-12-18T10:49:47+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone</id>
+    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a> 300 300 &ldquo;Chirps &amp; 2 Click Flare Combo by KenOne&rdquo; %}</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Drumming (Kick-Snare-Bass) by KenOne]]></title>
@@ -50,15 +59,6 @@
     <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hZgcMdk1B-/">http://instagram.com/p/hZgcMdk1B-/</a> 300 300 &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
 
 <p>{% instagram left <a href="http://instagram.com/p/hZhC4bE1DA/">http://instagram.com/p/hZhC4bE1DA/</a> 300 300 &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Scratch Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone/"/>
-    <updated>2013-11-28T21:20:43+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hQd7e0k1BC/">http://instagram.com/p/hQd7e0k1BC/</a> 300 300 &ldquo;Scratch Drumming by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   

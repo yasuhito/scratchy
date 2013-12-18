@@ -4,13 +4,35 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-03T14:31:57+09:00</updated>
+  <updated>2013-12-18T10:52:40+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chirps & 2 Click Flare Combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone/"/>
+    <updated>2013-12-18T10:49:47+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper4-12.ak.instagram.com/2500edec66d211e3bd9a12f70b96bb28_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/iAlPYtE1NI/"><a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="chirps" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="combo" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
@@ -337,25 +359,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="howto" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="joecooley" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chirps]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/chirps/"/>
-    <updated>2013-11-27T20:54:16+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/chirps</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/tO4TBpTVCpo "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="chirps" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="diy" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
     

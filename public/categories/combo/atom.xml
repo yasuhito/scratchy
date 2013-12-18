@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: chirps | #sxrepos]]></title>
-  <link href="http://skratch.heroku.com/categories/chirps/atom.xml" rel="self"/>
+  <title><![CDATA[Category: combo | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/combo/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
   <updated>2013-12-18T11:03:05+09:00</updated>
   <id>http://skratch.heroku.com/</id>
@@ -19,15 +19,6 @@
     <updated>2013-12-18T10:49:47+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone</id>
     <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a> 300 300 &ldquo;Chirps &amp; 2 Click Flare Combo by KenOne&rdquo; %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chirps]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/chirps/"/>
-    <updated>2013-11-27T20:54:16+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/chirps</id>
-    <content type="html"><![CDATA[<p>{% youtube tO4TBpTVCpo %}</p>
 ]]></content>
   </entry>
   
