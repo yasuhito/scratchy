@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ttm | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/ttm/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:03:05+09:00</updated>
+  <updated>2013-12-18T11:13:37+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,9 @@
     <link href="http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert/"/>
     <updated>2013-12-02T09:24:12+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a> 300 300 &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a> &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
 
-<p>{% instagram left <a href="http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a> 300 300 &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
+<p>{% instagram <a href="http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a> &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -29,9 +29,9 @@
     <link href="http://skratch.heroku.com/2013/12/02/2click-flare-ying-yong-bian-by-kenone/"/>
     <updated>2013-12-02T09:15:57+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/02/2click-flare-ying-yong-bian-by-kenone</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hZgcMdk1B-/">http://instagram.com/p/hZgcMdk1B-/</a> 300 300 &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hZgcMdk1B-/">http://instagram.com/p/hZgcMdk1B-/</a> &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
 
-<p>{% instagram left <a href="http://instagram.com/p/hZhC4bE1DA/">http://instagram.com/p/hZhC4bE1DA/</a> 300 300 &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
+<p>{% instagram <a href="http://instagram.com/p/hZhC4bE1DA/">http://instagram.com/p/hZhC4bE1DA/</a> &ldquo;2Click Flare 応用編 by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -40,7 +40,7 @@
     <link href="http://skratch.heroku.com/2013/11/26/crescent-flare-ttm-by-kenone/"/>
     <updated>2013-11-26T16:57:37+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/crescent-flare-ttm-by-kenone</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hCNxcok1BV/">http://instagram.com/p/hCNxcok1BV/</a> 300 300 &ldquo;Crescent flare TTM by KenOne&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hCNxcok1BV/">http://instagram.com/p/hCNxcok1BV/</a> &ldquo;Crescent flare TTM by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -49,9 +49,9 @@
     <link href="http://skratch.heroku.com/2013/11/26/tear-1click-flare/"/>
     <updated>2013-11-26T11:26:20+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/tear-1click-flare</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hKH-vgE1IR/">http://instagram.com/p/hKH-vgE1IR/</a> 300 300 &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hKH-vgE1IR/">http://instagram.com/p/hKH-vgE1IR/</a> &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
 
-<p>{% instagram left <a href="http://instagram.com/p/hKGJNUk1FP/">http://instagram.com/p/hKGJNUk1FP/</a> 300 300 &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
+<p>{% instagram <a href="http://instagram.com/p/hKGJNUk1FP/">http://instagram.com/p/hKGJNUk1FP/</a> &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
 ]]></content>
   </entry>
   

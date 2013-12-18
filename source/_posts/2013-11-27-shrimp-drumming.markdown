@@ -6,4 +6,4 @@ comments: true
 categories: shrimp drumming kenone
 ---
 
-{% instagram left http://instagram.com/p/g6XZqMk1Ep/ 300 300 "Shrimp Drumming" %}
+{% instagram http://instagram.com/p/g6XZqMk1Ep/ "Shrimp Drumming" %}

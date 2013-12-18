@@ -6,6 +6,6 @@ comments: true
 categories: tear flare ttm kenone
 ---
 
-{% instagram left http://instagram.com/p/hKH-vgE1IR/ 300 300 "Tear + 1 Click Flare" %}
+{% instagram http://instagram.com/p/hKH-vgE1IR/ "Tear + 1 Click Flare" %}
 
-{% instagram left http://instagram.com/p/hKGJNUk1FP/ 300 300 "Tear + 1 Click Flare" %}
+{% instagram http://instagram.com/p/hKGJNUk1FP/ "Tear + 1 Click Flare" %}

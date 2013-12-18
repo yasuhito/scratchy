@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jrocc | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/jrocc/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2013-12-18T11:13:37+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[J ROCC Scratch Beat Drumming (Hat-Kick-Snare) by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/10/j-rocc-scratch-beat-drumming-hat-kick-snare/"/>
+    <updated>2013-12-10T13:37:59+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/10/j-rocc-scratch-beat-drumming-hat-kick-snare</id>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hhbQNrk1Hg/">http://instagram.com/p/hhbQNrk1Hg/</a> &ldquo;J ROCC Scratch Beat Drumming (Hat-Kick-Snare)&rdquo; %}</p>
+]]></content>
+  </entry>
+  
+</feed>

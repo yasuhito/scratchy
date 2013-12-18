@@ -4,7 +4,7 @@
   <title><![CDATA[Category: transformer | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/transformer/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:03:05+09:00</updated>
+  <updated>2013-12-18T11:13:37+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone/"/>
     <updated>2013-12-03T09:14:39+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a> 300 300 &ldquo;Drumming (Kick-Snare-Kick) by KenOne&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a> &ldquo;Drumming (Kick-Snare-Kick) by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   

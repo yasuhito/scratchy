@@ -6,4 +6,4 @@ comments: true
 categories: drumming kenone transformer crab
 ---
 
-{% instagram left http://instagram.com/p/hb8UtHE1LF/ 300 300 "Drumming (Kick-Snare-Kick) by KenOne" %}
+{% instagram http://instagram.com/p/hb8UtHE1LF/ "Drumming (Kick-Snare-Kick) by KenOne" %}

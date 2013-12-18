@@ -6,4 +6,4 @@ comments: true
 categories: shrimp crab kenone
 ---
 
-{% instagram left http://instagram.com/p/gxv9Dyk1Fy/ 300 300 "Shrimp Crab" %}
+{% instagram http://instagram.com/p/gxv9Dyk1Fy/ "Shrimp Crab" %}

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: faderless | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/faderless/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:03:05+09:00</updated>
+  <updated>2013-12-18T11:13:37+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/26/faderless-drumming/"/>
     <updated>2013-11-26T14:24:25+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/faderless-drumming</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/hJ6RZLk1EG/">http://instagram.com/p/hJ6RZLk1EG/</a> 300 300 &ldquo;Faderless Drumming&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hJ6RZLk1EG/">http://instagram.com/p/hJ6RZLk1EG/</a> &ldquo;Faderless Drumming&rdquo; %}</p>
 ]]></content>
   </entry>
   

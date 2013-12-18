@@ -6,4 +6,4 @@ comments: true
 categories: chirps 2click flare combo kenone
 ---
 
-{% instagram left http://instagram.com/p/iAlPYtE1NI/ 300 300 "Chirps & 2 Click Flare Combo by KenOne" %}
+{% instagram http://instagram.com/p/iAlPYtE1NI/ "Chirps & 2 Click Flare Combo by KenOne" %}

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: combo | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/combo/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:03:05+09:00</updated>
+  <updated>2013-12-18T11:13:37+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,16 @@
     <link href="http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone/"/>
     <updated>2013-12-18T10:49:47+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/18/chirps-and-2-click-flare-combo-by-kenone</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a> 300 300 &ldquo;Chirps &amp; 2 Click Flare Combo by KenOne&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/iAlPYtE1NI/">http://instagram.com/p/iAlPYtE1NI/</a> &ldquo;Chirps &amp; 2 Click Flare Combo by KenOne&rdquo; %}</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tear 2Click-Flare Combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/10/tear-2click-flare-combo-by-kenone/"/>
+    <updated>2013-12-10T13:45:58+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/10/tear-2click-flare-combo-by-kenone</id>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hhdiCrk1K2/">http://instagram.com/p/hhdiCrk1K2/</a> &ldquo;Tear 2Click-Flare Combo by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   

@@ -6,4 +6,4 @@ comments: true
 categories: crescent flare ttm kenone
 ---
 
-{% instagram left http://instagram.com/p/hCNxcok1BV/ 300 300 "Crescent flare TTM by KenOne" %}
+{% instagram http://instagram.com/p/hCNxcok1BV/ "Crescent flare TTM by KenOne" %}

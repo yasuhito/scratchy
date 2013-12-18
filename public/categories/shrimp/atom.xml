@@ -4,7 +4,7 @@
   <title><![CDATA[Category: shrimp | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/shrimp/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:03:05+09:00</updated>
+  <updated>2013-12-18T11:13:37+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/shrimp-crab/"/>
     <updated>2013-11-27T13:49:43+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/shrimp-crab</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a> 300 300 &ldquo;Shrimp Crab&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a> &ldquo;Shrimp Crab&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/shrimp-drumming/"/>
     <updated>2013-11-27T13:40:33+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/shrimp-drumming</id>
-    <content type="html"><![CDATA[<p>{% instagram left <a href="http://instagram.com/p/g6XZqMk1Ep/">http://instagram.com/p/g6XZqMk1Ep/</a> 300 300 &ldquo;Shrimp Drumming&rdquo; %}</p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/g6XZqMk1Ep/">http://instagram.com/p/g6XZqMk1Ep/</a> &ldquo;Shrimp Drumming&rdquo; %}</p>
 ]]></content>
   </entry>
   
