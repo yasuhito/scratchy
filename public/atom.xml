@@ -4,13 +4,33 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-26T12:11:00+09:00</updated>
+  <updated>2013-12-26T12:14:55+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1Click Flare Drumming By KenOne]]></title>
+    <link href="http://skratch.heroku.com/2013/12/26/1click-flare-drumming-by-kenone/"/>
+    <updated>2013-12-26T12:13:39+09:00</updated>
+    <id>http://skratch.heroku.com/2013/12/26/1click-flare-drumming-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper3-3.ak.instagram.com/9ffa05a669f211e39c450e526a816343_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/iK1DP5k1D7/"><a href="http://instagram.com/p/iK1DP5k1D7/">http://instagram.com/p/iK1DP5k1D7/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="1click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crab &amp; Baby Combo by KenOne]]></title>
@@ -359,21 +379,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="snake" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Knuckle Sandwich - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica/"/>
-    <updated>2013-11-28T20:05:39+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OhfsocCKs5o "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="knuckle" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="sandwich" />
     
   </entry>
   
