@@ -4,7 +4,7 @@
   <title><![CDATA[Category: knuckle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/knuckle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:13:37+09:00</updated>
+  <updated>2013-12-26T12:11:00+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica/"/>
     <updated>2013-11-28T20:05:39+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube OhfsocCKs5o %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OhfsocCKs5o "></iframe></div></p>
 ]]></content>
   </entry>
   

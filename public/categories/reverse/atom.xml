@@ -4,7 +4,7 @@
   <title><![CDATA[Category: reverse | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/reverse/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-18T11:13:37+09:00</updated>
+  <updated>2013-12-26T12:11:00+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial/"/>
     <updated>2013-11-29T20:05:56+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial</id>
-    <content type="html"><![CDATA[<p>{% youtube VIEF4ikISYI %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/VIEF4ikISYI "></iframe></div></p>
 ]]></content>
   </entry>
   
