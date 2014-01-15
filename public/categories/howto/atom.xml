@@ -4,7 +4,7 @@
   <title><![CDATA[Category: howto | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/howto/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-26T13:17:56+09:00</updated>
+  <updated>2014-01-15T15:04:49+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/18/2-click-flare-by-kenone/"/>
     <updated>2013-12-18T11:11:16+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/18/2-click-flare-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper4-0.ak.instagram.com/cfd5de3e66ce11e382bd0e5297de98b8_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/iAiYidE1KP/">http://instagram.com/p/iAiYidE1KP/</a>">http://instagram.com/p/iAiYidE1KP/">http://instagram.com/p/iAiYidE1KP/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/iAiYidE1KP/">http://instagram.com/p/iAiYidE1KP/</a> &ldquo;2 Click Flare by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -29,7 +27,7 @@
     <link href="http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch/"/>
     <updated>2013-11-29T19:59:46+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/zmVhTFChkWI "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube zmVhTFChkWI %}</p>
 ]]></content>
   </entry>
   
@@ -38,7 +36,7 @@
     <link href="http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch/"/>
     <updated>2013-11-29T19:57:15+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Kojo5khAAS0 "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube Kojo5khAAS0 %}</p>
 ]]></content>
   </entry>
   
@@ -47,7 +45,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson/"/>
     <updated>2013-11-27T21:07:46+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nI-CnlGfsVk "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube nI-CnlGfsVk %}</p>
 ]]></content>
   </entry>
   
@@ -56,7 +54,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/chirps/"/>
     <updated>2013-11-27T20:54:16+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/chirps</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/tO4TBpTVCpo "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube tO4TBpTVCpo %}</p>
 ]]></content>
   </entry>
   

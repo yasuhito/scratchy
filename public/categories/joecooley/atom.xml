@@ -4,7 +4,7 @@
   <title><![CDATA[Category: joecooley | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/joecooley/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-26T13:17:56+09:00</updated>
+  <updated>2014-01-15T15:04:49+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson/"/>
     <updated>2013-11-27T21:07:46+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nI-CnlGfsVk "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube nI-CnlGfsVk %}</p>
 ]]></content>
   </entry>
   

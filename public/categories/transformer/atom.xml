@@ -4,7 +4,7 @@
   <title><![CDATA[Category: transformer | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/transformer/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-26T13:17:56+09:00</updated>
+  <updated>2014-01-15T15:04:49+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone/"/>
     <updated>2013-12-03T09:14:39+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper1-9.ak.instagram.com/061cd7c65ba411e3a1b20a5f90c653b9_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a>">http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a> &ldquo;Drumming (Kick-Snare-Kick) by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -29,7 +27,7 @@
     <link href="http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch/"/>
     <updated>2013-11-29T19:59:46+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/zmVhTFChkWI "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube zmVhTFChkWI %}</p>
 ]]></content>
   </entry>
   
