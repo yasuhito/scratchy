@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: deska | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/deska/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2014-01-15T15:04:49+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Deska - Belzebuth freestyle]]></title>
+    <link href="http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle/"/>
+    <updated>2014-01-15T15:02:20+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle</id>
+    <content type="html"><![CDATA[<p>{% youtube sneV27aP25k %}</p>
+]]></content>
+  </entry>
+  
+</feed>
