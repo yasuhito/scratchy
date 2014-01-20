@@ -4,7 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-15T15:04:49+09:00</updated>
+  <updated>2014-01-20T14:05:38+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le-Jad & Cut Man Doo - 'Procession']]></title>
+    <link href="http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession/"/>
+    <updated>2014-01-20T14:02:46+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession</id>
+    <content type="html"><![CDATA[<p>{% youtube qd0Q07DBnQs %}</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Deska - Belzebuth freestyle]]></title>
@@ -46,15 +55,6 @@
     <updated>2013-11-29T11:29:04+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
     <content type="html"><![CDATA[<p>{% youtube veL9R73zm60 %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D-STYLES DJ ZO SKRATCHING]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching/"/>
-    <updated>2013-11-28T13:10:35+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching</id>
-    <content type="html"><![CDATA[<p>{% youtube 9oA0IZwJrtk %}</p>
 ]]></content>
   </entry>
   

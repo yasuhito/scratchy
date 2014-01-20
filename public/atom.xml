@@ -4,13 +4,32 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-15T15:03:47+09:00</updated>
+  <updated>2014-01-20T14:04:49+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le-Jad & Cut Man Doo - 'Procession']]></title>
+    <link href="http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession/"/>
+    <updated>2014-01-20T14:02:46+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qd0Q07DBnQs "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="cutmandoo" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="lejad" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="tape" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Deska - Belzebuth freestyle]]></title>
@@ -366,21 +385,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="chirp" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D-styles freestyle scratch in Korea]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
-    <updated>2013-11-29T11:29:04+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/veL9R73zm60 "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
   </entry>
   
