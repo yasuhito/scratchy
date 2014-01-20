@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cutmandoo | #sxrepos]]></title>
+  <link href="http://skratch.heroku.com/categories/cutmandoo/atom.xml" rel="self"/>
+  <link href="http://skratch.heroku.com/"/>
+  <updated>2014-01-20T14:05:38+09:00</updated>
+  <id>http://skratch.heroku.com/</id>
+  <author>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Le-Jad & Cut Man Doo - 'Procession']]></title>
+    <link href="http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession/"/>
+    <updated>2014-01-20T14:02:46+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession</id>
+    <content type="html"><![CDATA[<p>{% youtube qd0Q07DBnQs %}</p>
+]]></content>
+  </entry>
+  
+</feed>
