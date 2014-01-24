@@ -4,7 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-20T14:05:38+09:00</updated>
+  <updated>2014-01-24T16:08:38+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
+    <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
+    <updated>2014-01-24T16:06:52+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi</id>
+    <content type="html"><![CDATA[<p>{% youtube AwEFLDB5THo %}</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le-Jad & Cut Man Doo - 'Procession']]></title>
@@ -46,15 +55,6 @@
     <updated>2013-12-03T09:30:37+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1</id>
     <content type="html"><![CDATA[<p>{% youtube 8udvy4h__pU %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D-styles freestyle scratch in Korea]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
-    <updated>2013-11-29T11:29:04+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
-    <content type="html"><![CDATA[<p>{% youtube veL9R73zm60 %}</p>
 ]]></content>
   </entry>
   

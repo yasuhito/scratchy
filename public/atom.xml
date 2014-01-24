@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-20T14:04:49+09:00</updated>
+  <updated>2014-01-24T16:07:51+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
+    <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
+    <updated>2014-01-24T16:06:52+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AwEFLDB5THo "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="yocchi" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le-Jad & Cut Man Doo - 'Procession']]></title>
@@ -370,21 +385,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="howto" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chirp Scratch DJ Tutorial - How To Scratch]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch/"/>
-    <updated>2013-11-29T19:57:15+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Kojo5khAAS0 "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="chirp" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
     
   </entry>
   
