@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2013-12-10T15:45:59+09:00</updated>
+  <updated>2014-01-26T20:46:51+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
+    <link href="http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich/"/>
+    <updated>2014-01-26T20:42:26+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/D10o7-2fD3k "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tear 2Click-Flare Combo by KenOne]]></title>
@@ -350,21 +365,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="zo" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spair Flare - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/spair-flare-scratchlopedia-breaktannica/"/>
-    <updated>2013-11-28T09:15:54+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/spair-flare-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/15lvH7IYphU "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="spair" />
     
   </entry>
   
