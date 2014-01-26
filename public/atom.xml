@@ -4,11 +4,7 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-<<<<<<< HEAD
-  <updated>2014-01-26T20:46:51+09:00</updated>
-=======
-  <updated>2014-01-24T16:07:51+09:00</updated>
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
+  <updated>2014-01-26T20:49:14+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -17,7 +13,6 @@
 
   
   <entry>
-<<<<<<< HEAD
     <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
     <link href="http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich/"/>
     <updated>2014-01-26T20:42:26+09:00</updated>
@@ -30,7 +25,9 @@
     
     <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
-=======
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
     <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-24T16:06:52+09:00</updated>
@@ -175,7 +172,6 @@
     
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
   </entry>
   
   <entry>
@@ -392,134 +388,4 @@
     
   </entry>
   
-  <entry>
-    <title type="html"><![CDATA[Transformer Scratch Tutorial - How To Scratch]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch/"/>
-    <updated>2013-11-29T19:59:46+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/zmVhTFChkWI "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
-    
-  </entry>
-  
-<<<<<<< HEAD
-  <entry>
-    <title type="html"><![CDATA[Chirp Scratch DJ Tutorial - How To Scratch]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch/"/>
-    <updated>2013-11-29T19:57:15+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/chirp-scratch-dj-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Kojo5khAAS0 "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="chirp" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D-styles freestyle scratch in Korea]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea/"/>
-    <updated>2013-11-29T11:29:04+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/d-styles-freestyle-scratch-in-korea</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/veL9R73zm60 "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Scratch Drumming by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone/"/>
-    <updated>2013-11-28T21:20:43+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/scratch-drumming-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper2-18.ak.instagram.com/8bf4bd02582311e3b0940e1d597a2c69_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hQd7e0k1BC/"><a href="http://instagram.com/p/hQd7e0k1BC/">http://instagram.com/p/hQd7e0k1BC/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Snakes - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica/"/>
-    <updated>2013-11-28T20:09:50+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/R1qzk6HFwWw "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="snake" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Knuckle Sandwich - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica/"/>
-    <updated>2013-11-28T20:05:39+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/knuckle-sandwich-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OhfsocCKs5o "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="knuckle" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="sandwich" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jackhammers - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/jackhammers-scratchlopedia-breaktannica/"/>
-    <updated>2013-11-28T20:02:48+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/jackhammers-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/PMQKZxPQmZI "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drill" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="jackhammer" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="rafik" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D-STYLES DJ ZO SKRATCHING]]></title>
-    <link href="http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching/"/>
-    <updated>2013-11-28T13:10:35+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/28/d-styles-dj-zo-skratching</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/9oA0IZwJrtk "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="zo" />
-    
-  </entry>
-  
-=======
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
 </feed>

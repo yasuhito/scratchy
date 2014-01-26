@@ -4,11 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-<<<<<<< HEAD
-  <updated>2014-01-26T20:46:51+09:00</updated>
-=======
-  <updated>2014-01-24T16:08:38+09:00</updated>
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
+  <updated>2014-01-26T20:49:14+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +14,6 @@
 
   
   <entry>
-<<<<<<< HEAD
     <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
     <link href="http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich/"/>
     <updated>2014-01-26T20:42:26+09:00</updated>
@@ -28,18 +23,11 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
-    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
-    <updated>2013-12-03T14:28:13+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/FveafSVJ48Y "></iframe></div></p>
-=======
     <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
     <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-24T16:06:52+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi</id>
-    <content type="html"><![CDATA[<p>{% youtube AwEFLDB5THo %}</p>
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AwEFLDB5THo "></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -48,7 +36,7 @@
     <link href="http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession/"/>
     <updated>2014-01-20T14:02:46+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession</id>
-    <content type="html"><![CDATA[<p>{% youtube qd0Q07DBnQs %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qd0Q07DBnQs "></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -57,7 +45,7 @@
     <link href="http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle/"/>
     <updated>2014-01-15T15:02:20+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle</id>
-    <content type="html"><![CDATA[<p>{% youtube sneV27aP25k %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sneV27aP25k "></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -66,20 +54,8 @@
     <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
     <updated>2013-12-03T14:28:13+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
-    <content type="html"><![CDATA[<p>{% youtube FveafSVJ48Y %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/FveafSVJ48Y "></iframe></div></p>
 ]]></content>
   </entry>
   
-<<<<<<< HEAD
-=======
-  <entry>
-    <title type="html"><![CDATA[toadstyle and dj excess live part1]]></title>
-    <link href="http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1/"/>
-    <updated>2013-12-03T09:30:37+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1</id>
-    <content type="html"><![CDATA[<p>{% youtube 8udvy4h__pU %}</p>
-]]></content>
-  </entry>
-  
->>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
 </feed>

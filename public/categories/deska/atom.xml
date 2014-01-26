@@ -4,7 +4,7 @@
   <title><![CDATA[Category: deska | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/deska/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-24T16:08:38+09:00</updated>
+  <updated>2014-01-26T20:49:14+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle/"/>
     <updated>2014-01-15T15:02:20+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle</id>
-    <content type="html"><![CDATA[<p>{% youtube sneV27aP25k %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sneV27aP25k "></iframe></div></p>
 ]]></content>
   </entry>
   
