@@ -4,7 +4,11 @@
   <title><![CDATA[Category: boomerang | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/boomerang/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
+<<<<<<< HEAD
   <updated>2014-01-26T20:46:51+09:00</updated>
+=======
+  <updated>2014-01-24T16:08:38+09:00</updated>
+>>>>>>> 8a4cd4df5b57d5c54d4a581a8a4a5633e0455622
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +22,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/qbert-skratch-university-boomerang-scratch/"/>
     <updated>2013-11-27T09:32:21+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/qbert-skratch-university-boomerang-scratch</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/-Ne8BwqkCTc "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube -Ne8BwqkCTc %}</p>
 ]]></content>
   </entry>
   
