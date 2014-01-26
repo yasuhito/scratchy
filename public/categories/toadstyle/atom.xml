@@ -4,7 +4,7 @@
   <title><![CDATA[Category: toadstyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/toadstyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:49:14+09:00</updated>
+  <updated>2014-01-26T20:50:03+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1/"/>
     <updated>2013-12-03T09:30:37+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/toadstyle-and-dj-excess-live-part1</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/8udvy4h__pU "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 8udvy4h__pU %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://skratch.heroku.com/2013/11/26/best-of-toadstyle/"/>
     <updated>2013-11-26T23:21:48+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/best-of-toadstyle</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/WEteqhXo4qA "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube WEteqhXo4qA %}</p>
 ]]></content>
   </entry>
   

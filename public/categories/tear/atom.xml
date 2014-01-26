@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tear | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/tear/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:49:14+09:00</updated>
+  <updated>2014-01-26T20:50:03+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/10/tear-2click-flare-combo-by-kenone/"/>
     <updated>2013-12-10T13:45:58+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/10/tear-2click-flare-combo-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper6-2.ak.instagram.com/2fbd97905d5311e3814d12589ecf55e2_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/hhdiCrk1K2/">http://instagram.com/p/hhdiCrk1K2/</a>">http://instagram.com/p/hhdiCrk1K2/">http://instagram.com/p/hhdiCrk1K2/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hhdiCrk1K2/">http://instagram.com/p/hhdiCrk1K2/</a> &ldquo;Tear 2Click-Flare Combo by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -29,13 +27,9 @@
     <link href="http://skratch.heroku.com/2013/11/26/tear-1click-flare/"/>
     <updated>2013-11-26T11:26:20+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/26/tear-1click-flare</id>
-    <content type="html"><![CDATA[<p><img src="http://distilleryimage9.ak.instagram.com/00dfd9a4563411e3ae6412cc2052207c_8.jpg" title="&ldquo;Tear + 1 Click Flare&rdquo;" width="640" height="640" >
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hKH-vgE1IR/">http://instagram.com/p/hKH-vgE1IR/</a> &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
 
-<a href="http://instagram.com/p/hKH-vgE1IR/">http://instagram.com/p/hKH-vgE1IR/</a>">http://instagram.com/p/hKH-vgE1IR/">http://instagram.com/p/hKH-vgE1IR/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-
-<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper11-19.ak.instagram.com/c2fb40f8563111e38c0912f414058274_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/hKGJNUk1FP/">http://instagram.com/p/hKGJNUk1FP/</a>">http://instagram.com/p/hKGJNUk1FP/">http://instagram.com/p/hKGJNUk1FP/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+<p>{% instagram <a href="http://instagram.com/p/hKGJNUk1FP/">http://instagram.com/p/hKGJNUk1FP/</a> &ldquo;Tear + 1 Click Flare&rdquo; %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: crab | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/crab/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:49:14+09:00</updated>
+  <updated>2014-01-26T20:50:03+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/26/crab-and-baby-combo-by-kenone/"/>
     <updated>2013-12-26T12:09:33+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/26/crab-and-baby-combo-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper7-19.ak.instagram.com/140313ee69fc11e39c6812ce5dbdd1cb_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/iK8-cyk1Mt/">http://instagram.com/p/iK8-cyk1Mt/</a>">http://instagram.com/p/iK8-cyk1Mt/">http://instagram.com/p/iK8-cyk1Mt/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/iK8-cyk1Mt/">http://instagram.com/p/iK8-cyk1Mt/</a> &ldquo;Crab &amp; Baby Combo by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -29,9 +27,7 @@
     <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone/"/>
     <updated>2013-12-03T09:14:39+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper1-9.ak.instagram.com/061cd7c65ba411e3a1b20a5f90c653b9_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a>">http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a> &ldquo;Drumming (Kick-Snare-Kick) by KenOne&rdquo; %}</p>
 ]]></content>
   </entry>
   
@@ -40,9 +36,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/shrimp-crab/"/>
     <updated>2013-11-27T13:49:43+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/shrimp-crab</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper2-10.ak.instagram.com/aca8b5584ec311e3b94612f7d16abad8_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a>">http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/gxv9Dyk1Fy/">http://instagram.com/p/gxv9Dyk1Fy/</a> &ldquo;Shrimp Crab&rdquo; %}</p>
 ]]></content>
   </entry>
   
