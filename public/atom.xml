@@ -4,7 +4,7 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-27T17:15:22+09:00</updated>
+  <updated>2014-01-27T17:17:23+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -24,6 +24,21 @@
     <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="yocchi" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
+    <link href="http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich/"/>
+    <updated>2014-01-26T20:42:26+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/D10o7-2fD3k "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="dstyles" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
     
   </entry>
   
@@ -368,23 +383,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hamster / Reverse vs Regular Fader Scratch Tutorial]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial/"/>
-    <updated>2013-11-29T20:05:56+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/VIEF4ikISYI "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="fader" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="hamster" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="reverse" />
     
   </entry>
   
