@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-24T16:07:51+09:00</updated>
+  <updated>2014-01-27T17:15:22+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
+    <link href="http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi/"/>
+    <updated>2014-01-27T17:14:10+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qQUXkZ1WjQY "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="freestyle" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="yocchi" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
@@ -370,21 +385,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="hamster" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="reverse" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Transformer Scratch Tutorial - How To Scratch]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch/"/>
-    <updated>2013-11-29T19:59:46+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/transformer-scratch-tutorial-how-to-scratch</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/zmVhTFChkWI "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="howto" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
     
   </entry>
   

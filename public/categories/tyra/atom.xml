@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tyra | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/tyra/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-24T16:08:38+09:00</updated>
+  <updated>2014-01-27T17:15:22+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/delayed-flares-scratchlopedia-breaktannica/"/>
     <updated>2013-11-28T09:11:23+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/delayed-flares-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube _5krdQgxhkU %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/_5krdQgxhkU "></iframe></div></p>
 ]]></content>
   </entry>
   
