@@ -4,7 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-29T19:33:02+09:00</updated>
+  <updated>2014-01-29T19:34:08+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
+    <link href="http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi/"/>
+    <updated>2014-01-27T17:14:10+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qQUXkZ1WjQY "></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
@@ -46,15 +55,6 @@
     <updated>2014-01-15T15:02:20+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle</id>
     <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sneV27aP25k "></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DJ Battle: Scratch Legend D-Styles performing with djay 4 &amp; Vestax Spin]]></title>
-    <link href="http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin/"/>
-    <updated>2013-12-03T14:28:13+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/03/dj-battle-scratch-legend-d-styles-performing-with-djay-4-and-vestax-spin</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/FveafSVJ48Y "></iframe></div></p>
 ]]></content>
   </entry>
   
