@@ -4,7 +4,7 @@
   <title><![CDATA[Category: qbert | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/qbert/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:50:03+09:00</updated>
+  <updated>2014-01-29T19:33:02+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Helicopter - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica/"/>
+    <updated>2014-01-29T19:32:04+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RaCaPW8lfSM "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Prizm - Scratchlopedia Breaktannica]]></title>
     <link href="http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica/"/>
     <updated>2013-12-02T09:33:19+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube DLDi57v2YzQ %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DLDi57v2YzQ "></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -27,9 +36,13 @@
     <link href="http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert/"/>
     <updated>2013-12-02T09:24:12+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert</id>
-    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a> &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img src="http://distilleryimage5.ak.instagram.com/4f1d85c459c911e392c212616e2be289_8.jpg" title="&ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo;" width="640" height="640" >
 
-<p>{% instagram <a href="http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a> &ldquo;Hyper Drumming by KenOne (originally invented by Q-bert)&rdquo; %}</p>
+<a href="http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a>">http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+
+<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper3-15.ak.instagram.com/99cc759859ca11e3a7fd12b201d372bb_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
+
+<a href="http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a>">http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
 ]]></content>
   </entry>
   
@@ -38,7 +51,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica/"/>
     <updated>2013-11-28T20:09:50+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube R1qzk6HFwWw %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/R1qzk6HFwWw "></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -47,16 +60,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson/"/>
     <updated>2013-11-27T21:07:46+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/qsu-joe-cooley-skratch-lesson</id>
-    <content type="html"><![CDATA[<p>{% youtube nI-CnlGfsVk %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chirps]]></title>
-    <link href="http://skratch.heroku.com/2013/11/27/chirps/"/>
-    <updated>2013-11-27T20:54:16+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/27/chirps</id>
-    <content type="html"><![CDATA[<p>{% youtube tO4TBpTVCpo %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/nI-CnlGfsVk "></iframe></div></p>
 ]]></content>
   </entry>
   

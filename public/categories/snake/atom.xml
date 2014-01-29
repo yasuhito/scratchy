@@ -4,7 +4,7 @@
   <title><![CDATA[Category: snake | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/snake/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:50:03+09:00</updated>
+  <updated>2014-01-29T19:33:02+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica/"/>
     <updated>2013-11-28T20:09:50+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/snakes-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube R1qzk6HFwWw %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/R1qzk6HFwWw "></iframe></div></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: miyajima | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/miyajima/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:50:03+09:00</updated>
+  <updated>2014-01-29T19:33:02+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample/"/>
     <updated>2013-11-27T11:13:17+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/27/dj-gong-dao-shu-sample</id>
-    <content type="html"><![CDATA[<p>{% youtube jTjr8QlbLsM %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/jTjr8QlbLsM "></iframe></div></p>
 ]]></content>
   </entry>
   

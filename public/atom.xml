@@ -4,13 +4,28 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-26T20:49:14+09:00</updated>
+  <updated>2014-01-29T19:33:02+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Helicopter - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica/"/>
+    <updated>2014-01-29T19:32:04+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RaCaPW8lfSM "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="helicopter" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[d-styles - cutting live in munich]]></title>
@@ -368,23 +383,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hamster / Reverse vs Regular Fader Scratch Tutorial]]></title>
-    <link href="http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial/"/>
-    <updated>2013-11-29T20:05:56+09:00</updated>
-    <id>http://skratch.heroku.com/2013/11/29/hamster-slash-reverse-vs-regular-fader-scratch-tutorial</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/VIEF4ikISYI "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="fader" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="hamster" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="reverse" />
     
   </entry>
   
