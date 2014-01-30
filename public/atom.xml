@@ -4,13 +4,30 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-27T17:21:10+09:00</updated>
+  <updated>2014-01-30T17:33:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Grzana Scratch Combo Tutorial]]></title>
+    <link href="http://skratch.heroku.com/2014/01/30/grzana-scratch-combo-tutorial/"/>
+    <updated>2014-01-30T17:31:06+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/30/grzana-scratch-combo-tutorial</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/wPh5JpR1vdw "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="3click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="grzana" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Freestyle Cutz by DJ Yocchi]]></title>
@@ -357,30 +374,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2Click Flare 応用編 by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/12/02/2click-flare-ying-yong-bian-by-kenone/"/>
-    <updated>2013-12-02T09:15:57+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/02/2click-flare-ying-yong-bian-by-kenone</id>
-    <content type="html"><![CDATA[<p><img src="http://distilleryimage2.ak.instagram.com/bcb012c45ae511e39c4d0ee0497810b2_8.jpg" title="2Click Flare 応用編 by KenOne" width="640" height="640" alt="2Click Flare 応用編 by KenOne"></p>
-
-<p><a href="http://instagram.com/p/hZgcMdk1B-/"><a href="http://instagram.com/p/hZgcMdk1B-/">http://instagram.com/p/hZgcMdk1B-/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-
-<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper8-8.ak.instagram.com/7996d3965ae611e38438123fa8fd8529_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hZhC4bE1DA/"><a href="http://instagram.com/p/hZhC4bE1DA/">http://instagram.com/p/hZhC4bE1DA/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
     
