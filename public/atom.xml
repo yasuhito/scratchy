@@ -4,7 +4,7 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:33:01+09:00</updated>
+  <updated>2014-01-30T17:34:51+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -26,6 +26,21 @@
     <category scheme="http://skratch.heroku.com/categories/" term="3click" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="grzana" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Helicopter - Scratchlopedia Breaktannica]]></title>
+    <link href="http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica/"/>
+    <updated>2014-01-29T19:32:04+09:00</updated>
+    <id>http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RaCaPW8lfSM "></iframe></div>
+
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="helicopter" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
     
   </entry>
   
@@ -352,30 +367,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="prizm" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hyper Drumming by KenOne (originally invented by Q-bert)]]></title>
-    <link href="http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert/"/>
-    <updated>2013-12-02T09:24:12+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/02/hyper-drumming-by-kenone-originally-invented-by-q-bert</id>
-    <content type="html"><![CDATA[<p><img src="http://distilleryimage5.ak.instagram.com/4f1d85c459c911e392c212616e2be289_8.jpg" title="Hyper Drumming by KenOne (originally invented by Q-bert)" width="640" height="640" alt="Hyper Drumming by KenOne (originally invented by Q-bert)"></p>
-
-<p><a href="http://instagram.com/p/hV3b-ZE1Ax/"><a href="http://instagram.com/p/hV3b-ZE1Ax/">http://instagram.com/p/hV3b-ZE1Ax/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-
-<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper3-15.ak.instagram.com/99cc759859ca11e3a7fd12b201d372bb_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hV4fsvE1Cb/"><a href="http://instagram.com/p/hV4fsvE1Cb/">http://instagram.com/p/hV4fsvE1Cb/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="ttm" />
     
   </entry>
   
