@@ -4,7 +4,7 @@
   <title><![CDATA[Category: grzana | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/grzana/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:34:51+09:00</updated>
+  <updated>2014-02-03T10:00:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2014/01/30/grzana-scratch-combo-tutorial/"/>
     <updated>2014-01-30T17:31:06+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/30/grzana-scratch-combo-tutorial</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/wPh5JpR1vdw "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube wPh5JpR1vdw %}</p>
 ]]></content>
   </entry>
   

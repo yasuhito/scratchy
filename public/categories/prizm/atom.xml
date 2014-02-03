@@ -4,7 +4,7 @@
   <title><![CDATA[Category: prizm | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/prizm/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:34:51+09:00</updated>
+  <updated>2014-02-03T10:00:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica/"/>
     <updated>2013-12-02T09:33:19+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DLDi57v2YzQ "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube DLDi57v2YzQ %}</p>
 ]]></content>
   </entry>
   

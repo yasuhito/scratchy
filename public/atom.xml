@@ -4,13 +4,31 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:34:51+09:00</updated>
+  <updated>2014-02-03T09:59:04+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4click flare by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2014/02/03/4click-flare-by-kenone/"/>
+    <updated>2014-02-03T09:57:28+09:00</updated>
+    <id>http://skratch.heroku.com/2014/02/03/4click-flare-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper7-11.ak.instagram.com/72c2341a8a1211e3b9211276cdcf1323_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/j0F3TVk1BL/"><a href="http://instagram.com/p/j0F3TVk1BL/">http://instagram.com/p/j0F3TVk1BL/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="4click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Grzana Scratch Combo Tutorial]]></title>
@@ -352,21 +370,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Prizm - Scratchlopedia Breaktannica]]></title>
-    <link href="http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica/"/>
-    <updated>2013-12-02T09:33:19+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/02/prizm-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/DLDi57v2YzQ "></iframe></div>
-
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="prizm" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="qbert" />
     
   </entry>
   

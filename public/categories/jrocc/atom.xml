@@ -4,7 +4,7 @@
   <title><![CDATA[Category: jrocc | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/jrocc/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:34:51+09:00</updated>
+  <updated>2014-02-03T10:00:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,9 +18,7 @@
     <link href="http://skratch.heroku.com/2013/12/10/j-rocc-scratch-beat-drumming-hat-kick-snare/"/>
     <updated>2013-12-10T13:37:59+09:00</updated>
     <id>http://skratch.heroku.com/2013/12/10/j-rocc-scratch-beat-drumming-hat-kick-snare</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper8-16.ak.instagram.com/67af96745d5011e3825e12d74921a67b_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video>
-
-<a href="http://instagram.com/p/hhbQNrk1Hg/">http://instagram.com/p/hhbQNrk1Hg/</a>">http://instagram.com/p/hhbQNrk1Hg/">http://instagram.com/p/hhbQNrk1Hg/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+    <content type="html"><![CDATA[<p>{% instagram <a href="http://instagram.com/p/hhbQNrk1Hg/">http://instagram.com/p/hhbQNrk1Hg/</a> &ldquo;J ROCC Scratch Beat Drumming (Hat-Kick-Snare)&rdquo; %}</p>
 ]]></content>
   </entry>
   

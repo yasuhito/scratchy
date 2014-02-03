@@ -4,7 +4,7 @@
   <title><![CDATA[Category: yocchi | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/yocchi/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-01-30T17:34:51+09:00</updated>
+  <updated>2014-02-03T10:00:01+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-27T17:14:10+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qQUXkZ1WjQY "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube qQUXkZ1WjQY %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-24T16:06:52+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AwEFLDB5THo "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube AwEFLDB5THo %}</p>
 ]]></content>
   </entry>
   
