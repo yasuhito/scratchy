@@ -4,7 +4,7 @@
   <title><![CDATA[Category: spair | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/spair/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-02-05T18:18:40+09:00</updated>
+  <updated>2014-02-05T18:24:19+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2013/11/28/spair-flare-scratchlopedia-breaktannica/"/>
     <updated>2013-11-28T09:15:54+09:00</updated>
     <id>http://skratch.heroku.com/2013/11/28/spair-flare-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/15lvH7IYphU "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 15lvH7IYphU %}</p>
 ]]></content>
   </entry>
   

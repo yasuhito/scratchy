@@ -4,7 +4,7 @@
   <title><![CDATA[Category: freestyle | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/freestyle/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-02-05T18:18:40+09:00</updated>
+  <updated>2014-02-05T18:24:19+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-27T17:14:10+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/27/freestyle-cutz-by-dj-yocchi</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qQUXkZ1WjQY "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube qQUXkZ1WjQY %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich/"/>
     <updated>2014-01-26T20:42:26+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/26/d-styles-cutting-live-in-munich</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/D10o7-2fD3k "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube D10o7-2fD3k %}</p>
 ]]></content>
   </entry>
   
@@ -36,7 +36,7 @@
     <link href="http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi/"/>
     <updated>2014-01-24T16:06:52+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/24/freestyle-cutz-by-dj-yocchi</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AwEFLDB5THo "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube AwEFLDB5THo %}</p>
 ]]></content>
   </entry>
   
@@ -45,7 +45,7 @@
     <link href="http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession/"/>
     <updated>2014-01-20T14:02:46+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/20/le-jad-and-cut-man-doo-procession</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qd0Q07DBnQs "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube qd0Q07DBnQs %}</p>
 ]]></content>
   </entry>
   
@@ -54,7 +54,7 @@
     <link href="http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle/"/>
     <updated>2014-01-15T15:02:20+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/15/deska-belzebuth-freestyle</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sneV27aP25k "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube sneV27aP25k %}</p>
 ]]></content>
   </entry>
   

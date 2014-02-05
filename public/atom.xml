@@ -4,13 +4,31 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-02-05T18:18:40+09:00</updated>
+  <updated>2014-02-05T18:23:44+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Original and 2click flare orbit combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2014/02/05/original-and-2click-flare-orbit-combo-by-kenone/"/>
+    <updated>2014-02-05T18:22:28+09:00</updated>
+    <id>http://skratch.heroku.com/2014/02/05/original-and-2click-flare-orbit-combo-by-kenone</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper5-1.ak.instagram.com/4504269e8c7611e3b762129ab8378811_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/j77YJVE1MW/"><a href="http://instagram.com/p/j77YJVE1MW/">http://instagram.com/p/j77YJVE1MW/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="baby" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chirps, original flare and 2click orbit combo by KenOne]]></title>
@@ -352,22 +370,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="live" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="toadstyle" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Drumming (Kick-Snare-Bass) by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-bass-by-kenone/"/>
-    <updated>2013-12-03T09:18:26+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-bass-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper5-17.ak.instagram.com/08421aca5b9a11e3b69f125589bd0df1_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hb0I2wE1Nl/"><a href="http://instagram.com/p/hb0I2wE1Nl/">http://instagram.com/p/hb0I2wE1Nl/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
     
   </entry>
   
