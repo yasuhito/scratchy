@@ -4,13 +4,31 @@
   <title><![CDATA[#sxrepos]]></title>
   <link href="http://skratch.heroku.com/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-02-03T09:59:04+09:00</updated>
+  <updated>2014-02-05T18:18:40+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chirps, original flare and 2click orbit combo by KenOne]]></title>
+    <link href="http://skratch.heroku.com/2014/02/05/chirps/"/>
+    <updated>2014-02-05T18:11:42+09:00</updated>
+    <id>http://skratch.heroku.com/2014/02/05/chirps</id>
+    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper4-16.ak.instagram.com/4d3081088d4511e3907c1296586a1d24_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><a href="http://instagram.com/p/j-kzkfk1N1/"><a href="http://instagram.com/p/j-kzkfk1N1/">http://instagram.com/p/j-kzkfk1N1/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
+]]></content>
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="2click" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="chirps" />
+    
+    <category scheme="http://skratch.heroku.com/categories/" term="flare" />
+    
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4click flare by KenOne]]></title>
@@ -350,26 +368,6 @@
     <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
     
     <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Drumming (Kick-Snare-Kick) by KenOne]]></title>
-    <link href="http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone/"/>
-    <updated>2013-12-03T09:14:39+09:00</updated>
-    <id>http://skratch.heroku.com/2013/12/03/drumming-kick-snare-kick-by-kenone</id>
-    <content type="html"><![CDATA[<p><video width='640' height='640' preload='metadata' controls poster=''><source src='http://distilleryvesper1-9.ak.instagram.com/061cd7c65ba411e3a1b20a5f90c653b9_101.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><a href="http://instagram.com/p/hb8UtHE1LF/"><a href="http://instagram.com/p/hb8UtHE1LF/">http://instagram.com/p/hb8UtHE1LF/</a></a> by <a href="http://instagram.com/djkenone">djkenone</a></p>
-]]></content>
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="crab" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="drumming" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="kenone" />
-    
-    <category scheme="http://skratch.heroku.com/categories/" term="transformer" />
     
   </entry>
   

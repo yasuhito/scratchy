@@ -4,7 +4,7 @@
   <title><![CDATA[Category: helicopter | #sxrepos]]></title>
   <link href="http://skratch.heroku.com/categories/helicopter/atom.xml" rel="self"/>
   <link href="http://skratch.heroku.com/"/>
-  <updated>2014-02-03T10:00:01+09:00</updated>
+  <updated>2014-02-05T18:18:40+09:00</updated>
   <id>http://skratch.heroku.com/</id>
   <author>
     <name><![CDATA[Yasuhito Takamiya]]></name>
@@ -18,7 +18,7 @@
     <link href="http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica/"/>
     <updated>2014-01-29T19:32:04+09:00</updated>
     <id>http://skratch.heroku.com/2014/01/29/helicopter-scratchlopedia-breaktannica</id>
-    <content type="html"><![CDATA[<p>{% youtube RaCaPW8lfSM %}</p>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/RaCaPW8lfSM "></iframe></div></p>
 ]]></content>
   </entry>
   
